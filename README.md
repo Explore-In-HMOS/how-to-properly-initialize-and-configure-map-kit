@@ -47,7 +47,7 @@ A HarmonyOS wearable application demonstrating Map Kit initialization and config
 
 ### Supported Devices
 
-- Huawei Watch (HarmonyOS NEXT wearables)
+- Huawei Watch (HarmonyOS wearables)
 
 ***Notes***
 
